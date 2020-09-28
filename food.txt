@@ -1,10 +1,7 @@
 Contributor 1 favorite food...
 Chicken Wings
 Pizza
-<<<<<<< HEAD
 Venison
 Salad
-=======
 Venison
 Carnitas
->>>>>>> 0be8f4e... Added Carnitas
