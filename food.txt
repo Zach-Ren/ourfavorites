@@ -2,3 +2,4 @@ Contributor 1 favorite food...
 Chicken Wings
 Pizza
 Venison
+Salad
